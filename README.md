@@ -5,4 +5,4 @@ This is a project WDWY(we do with you) for class capstone design, 2nd semester o
 
 ## About
 Details of this project are in this pdf file.
-[wdwy report](캡스톤 최종보고서.docx.pdf) 
+![wdwy report](report.pdf) 
